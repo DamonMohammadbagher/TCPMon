@@ -8,4 +8,5 @@ Tested on VS.NET 2008 + (WinXP, 2003 Server & Win7).
 Note: with/without "rus as Admin", you can use this code ;)  
 
 ![](https://github.com/DamonMohammadbagher/TCPMon/blob/main/Pic/TCPMon.png)
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/TCPMon"/></a></p>
 
