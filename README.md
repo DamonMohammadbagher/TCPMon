@@ -5,7 +5,7 @@ special thanks to "stackoverflow" guys for help me to work with APIs & ... , thi
 
 Tested on VS.NET 2008 + (WinXP, 2003 Server & Win7). 
 
-Note: with/without "rus as Admin", you can use this code but somethings are better with Admin ;)  
+Note: with/without "rus as Admin", you can use this code ;)  
 
 ![](https://github.com/DamonMohammadbagher/TCPMon/blob/main/Pic/TCPMon.png)
 
